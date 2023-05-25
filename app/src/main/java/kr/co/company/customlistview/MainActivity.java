@@ -31,16 +31,16 @@ public class MainActivity extends AppCompatActivity {
             "Metropolis (1927)"
     };
     Integer[] images={
-            R.drawable.image1,
-            R.drawable.image2,
-            R.drawable.image3,
-            R.drawable.image4,
-            R.drawable.image5,
-            R.drawable.image6,
-            R.drawable.image7,
-            R.drawable.image8,
-            R.drawable.image9,
-            R.drawable.image10,
+            R.drawable.movie1,
+            R.drawable.movie2,
+            R.drawable.movie3,
+            R.drawable.movie4,
+            R.drawable.movie5,
+            R.drawable.movie6,
+            R.drawable.movie7,
+            R.drawable.movie7,
+            R.drawable.movie7,
+            R.drawable.movie7,
     };
 
     @Override
